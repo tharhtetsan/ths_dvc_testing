@@ -1,0 +1,4 @@
+[core]
+    remote = cat_and_dog_dataset
+['remote "cat_and_dog_dataset"']
+    url = gs://ths_dvc_testing
