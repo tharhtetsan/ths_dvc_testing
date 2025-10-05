@@ -1,6 +1,6 @@
 outs:
-- md5: d25f6113ea2c29b6bcb60b08e1c6a188.dir
-  size: 5739376
-  nfiles: 257
+- md5: 12a6b3250d07f8f6cf457139d9f4cb0b.dir
+  size: 5671960
+  nfiles: 253
   hash: md5
   path: cat_and_dog_dataset
